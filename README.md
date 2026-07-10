@@ -3,7 +3,7 @@
 A stylish landing page with animated background, audio, clickable intro screen, and glitch effects.  
 Perfect for creating a strong first impression.
 
-Live demo: [https://tarikulislam.vercel.app/](https://tarikulislam.vercel.app/)
+Live demo: [https://my-intro-anil.vercel.app/)
 
 ## Features
 
