@@ -3,7 +3,7 @@
 
 const SITE_CONFIG = {
     // Personal Information
-    title: "Tarikul Islam",
+    title: "ANIL",
     citation: "I am not professional But I learn first and then I build.",
     
     // Main colors (hexadecimal format)
@@ -17,11 +17,11 @@ const SITE_CONFIG = {
     
     // Social links
     socialLinks: {
-        github: "https://github.com/itz-paglu",
-        tiktok: "https://www.tiktok.com/@tuhin_raj_",
-        youtube: "https://www.youtube.com/@TarikulDevZone",
+        github: "https://github.com/anilkumar-9980",
+        tiktok: null,
+        youtube: "https://www.youtube.com/@O2playsFF",
         discord: null,
-        telegram: "https://t.me/paglu_dev"
+        telegram: "https://t.me/nextanil1008"
     },
     
     // Audio configuration
